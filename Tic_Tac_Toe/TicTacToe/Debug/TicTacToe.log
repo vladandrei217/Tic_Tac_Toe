@@ -1,0 +1,6 @@
+﻿  TicTacToe.cpp
+C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\TicTacToe.cpp(8,23): warning C4309: 'initializing': truncation of constant value
+C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\TicTacToe.cpp(9,25): warning C4309: 'initializing': truncation of constant value
+C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\TicTacToe.cpp(23,15): warning C4101: 'userColumn': unreferenced local variable
+C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\TicTacToe.cpp(23,6): warning C4101: 'userRow': unreferenced local variable
+  TicTacToe.vcxproj -> C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\Debug\TicTacToe.exe

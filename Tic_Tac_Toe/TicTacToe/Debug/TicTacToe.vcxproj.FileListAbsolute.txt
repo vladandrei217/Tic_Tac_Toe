@@ -1,0 +1,2 @@
+C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\Debug\TicTacToe.exe
+C:\Users\Vlad\OneDrive\Desktop\Projects\Tic_Tac_Toe\TicTacToe\Debug\TicTacToe.pdb
